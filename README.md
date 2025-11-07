@@ -1,125 +1,124 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ca.slack-edge.com/T01AEMJU6GG-U0914GDNG3W-54d027e6c5bc-512?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://ca.slack-edge.com/T01AEMJU6GG-U097MP791QW-fa49dfe9d32a-512?raw=true">
-    <img alt="CCTech ET Logo" src="https://github.com/CCTECHET-DEV/.github/blob/main/profile/assets/logo-light.png?raw=true" width="350">
-  </picture>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6CD56C&center=true&vCenter=true&width=600&lines=Welcome+to+CCTECHET-DEV+%F0%9F%91%8B;Building+Modern+Web+Experiences" alt="Typing SVG" />
+  </h1>
 
-  <h3 align="center">Secure, Scalable, & Intelligent Solutions for Tomorrow's Challenges.</h3>
-  
-  <p align="center">
-    <i>Same Team, Same Dream!</i>
+  <h1><strong><span style="color:#00BFFF">CCTECHET-DEV</span> — <span style="color:#FF4500">Web & Software Studio</span></strong></h1>
+  <h3 style="color:#FFD700;">Design • Build • Ship</h3>
+
+  <p style="font-size: 16px; color: #D3D3D3; line-height: 1.6; max-width:900px">
+    We design and build modern, performant, and maintainable web and mobile applications.
+    Our focus is on transforming ideas into production-ready products — from UI/UX design and frontend engineering
+    to backend architecture, DevOps, and ongoing support.
   </p>
-  
-  <p align="center">
-    <a href="https://linkedin.com/company/cc-tech-et"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:info@cctech.et"><img src="https://img.shields.io/badge/Email_Us-0D6EFD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    </p>
+
+  <br>
+  <p>
+    <a href="https://cctechet-dev.example.com"><img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+    <a href="mailto:contact@cctechet-dev.example.com"><img src="https://img.shields.io/badge/Email-contact@cctechet-dev...-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
+    <a href="https://www.linkedin.com/company/cctechet-dev"><img src="https://img.shields.io/badge/LinkedIn-Company-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  </p>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack — Languages & Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="K8s" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" title="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40"/>
+</div>
+
+---
+
+## 🚀 What We Do
+
+* **Product Design & Strategy**
+  * UI/UX design, prototyping, and user testing to validate product-market fit.
+* **Web & Mobile Development**
+  * Frontend (React, Next.js, Flutter), backend (Node.js, Python), APIs and integrations.
+* **Cloud & DevOps**
+  * Containerization, CI/CD pipelines, monitoring, and scalable cloud infrastructure.
+* **Maintenance & Support**
+  * Performance improvements, security audits, and feature iteration.
+
+---
+
+## 🔧 Key Projects (Pinned)
+> Replace these with your actual repo links and short one-line descriptions.
+
+- **[website](https://github.com/CCTECHET-DEV/website)** — Company website & marketing site (Next.js, Tailwind).
+- **[platform-api](https://github.com/CCTECHET-DEV/platform-api)** — Microservices and REST API (Node.js, Express, MongoDB).
+- **[mobile-app](https://github.com/CCTECHET-DEV/mobile-app)** — Cross-platform mobile (Flutter).
+- **[design-system](https://github.com/CCTECHET-DEV/design-system)** — UI components & tokens (Storybook, Figma tokens).
+
+---
+
+## 🧭 Our Process
+
+1. **Discover** — Requirements, stakeholders, and user research.  
+2. **Design** — Wireframes, prototypes, and design system.  
+3. **Build** — Iterative development with tests and CI/CD.  
+4. **Ship** — Deploy to production, monitor, and iterate.
+
+---
+
+## 🧾 Company Tech Stack (Badges)
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 What We Do
+## 📊 GitHub Stats & Activity
 
-We are a team of passionate engineers, designers, and problem-solvers dedicated to building high-quality software. Our expertise spans from intuitive mobile apps to robust, scalable backend systems.
+<div align="center">
 
-Our core services include:
-* **Full-Stack Web Development:** Crafting responsive and powerful web applications using modern stacks (Node.js, Express, React/Vue, etc.).
-* **Cross-Platform Mobile Apps:** Building beautiful, native-performing apps for iOS and Android from a single codebase with Flutter.
-* **Cloud & DevOps:** Architecting, deploying, and managing scalable infrastructure on platforms like AWS, Azure, and GCP.
-* **Custom Software Solutions:** Designing and implementing tailored software to solve your unique business challenges.
-* **UI/UX Design:** Creating intuitive, user-centric designs in Figma that delight users and drive engagement.
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CCTECHET-DEV&show_icons=true&theme=radical&hide_border=true" alt="CCTECHET-DEV GitHub Stats" width="48%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCTECHET-DEV&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 
----
+  <!-- Profile Trophy (optional) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=CCTECHET-DEV&theme=radical&no-frame=true&margin-w=5&row=1" alt="GitHub Trophies" width="100%" />
 
-### 🛠️ Our Tech Stack
+  <!-- Activity graph -->
+  ![CCTECHET-DEV's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CCTECHET-DEV&theme=tokyo-night)
 
-This is how we bring our ideas to life.
-*(This directly showcases the "languages" you mentioned)*
-
-<table>
-  <tr>
-    <td align="center" width="175">
-      <strong>Languages</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Frontend & Mobile</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Backend & Databases</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>DevOps & Tools</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-### ✨ Our Featured Work
-
-Here are some of the projects we're proud of. (You should **make your best repos public** and link them here!)
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CCTECHET-DEV/YOUR-REPO-NAME-1">Project Name 1 (e.g., Kech.ai Backend)</a></h3>
-      <p>A short, powerful description of the project. What problem does it solve? What tech did you use? (e.g., "A high-performance car rental and sales backend built with Go, gRPC, and Kubernetes, designed for high availability.")</p>
-      <p>
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CCTECHET-DEV/YOUR-REPO-NAME-2">Project Name 2 (e.g., BookHub Microservices)</a></h3>
-      <p>A short, powerful description of the project. (e.g., "A complete microservices-based application for a modern e-commerce book store, featuring full observability with Prometheus & Grafana.")</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-      </p>
-    </td>
-  </tr>
-</table>
+## 🧩 How to Contribute
+1. Fork the repo you want to contribute to.  
+2. Create a branch: `git checkout -b feat/your-feature`.  
+3. Commit your changes: `git commit -m "feat: add ..."`  
+4. Push and open a Pull Request.  
+5. Fill the PR template and link any related issues.
 
 ---
 
-### 💬 Let's Collaborate
+## 📫 Contact & Partnerships
 
-We are always looking for new challenges and inspiring partners. Have an idea? Let's make it a reality.
+- 🌐 Website: `https://cctechet-dev.example.com`  
+- ✉️ Email: `contact@cctechet-dev.example.com`  
+- 💼 LinkedIn: `https://www.linkedin.com/company/cctechet-dev`  
 
-**[Get in Touch ➔](mailto:info@cctech.et)**
+---
+
+Thanks for visiting CCTECHET-DEV — let’s build something great together. 🚀
