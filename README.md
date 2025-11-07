@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/cctech-et/.github/main/profile/logo.png" alt="CC Tech Logo" width="140" />
+  <img src="https://ca.slack-edge.com/T01AEMJU6GG-U0914GDNG3W-54d027e6c5bc-512" alt="CC Tech Logo" width="140" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+CC+Tech+ET;Same+Team,+Same+Dream!" alt="Typing SVG" />
 
