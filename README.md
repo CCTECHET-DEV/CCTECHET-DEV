@@ -2,20 +2,26 @@
 
 <div align="center">
 
-  <img src="https://ca.slack-edge.com/T01AEMJU6GG-U0914GDNG3W-54d027e6c5bc-512" 
-       alt="CC Tech Logo" 
-       width="140" 
-       style="border-radius: 50%; border: 2px solid #00BFFF; padding: 3px;" />
+  <!-- Circular Logo -->
+  <img src="https://ca.slack-edge.com/T01AEMJU6GG-U0914GDNG3W-54d027e6c5bc-512"
+       alt="CC Tech Logo"
+       width="150"
+       style="border-radius: 50%; border: 3px solid #00BFFF; padding: 4px; box-shadow: 0 0 15px #00BFFF;" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+CC+Tech+ET;Same+Team,+Same+Dream!" alt="Typing SVG" />
+  <br><br>
 
-  <h1><strong><span style="color:#00BFFF;">CC Tech ET</span></strong></h1>
+  <!-- Animated Motto with Glow -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+CC+Tech+ET;Same+Team,+Same+Dream!" alt="Typing SVG" />
+
+  <h1 style="color:#00BFFF; text-shadow: 0 0 15px #00BFFF;">
+    <strong>CC Tech ET</strong>
+  </h1>
   <h3 style="color:#FFD700;">Secure, Scalable, Intelligent Solutions for Tomorrow’s Challenges</h3>
 
   <p style="font-size: 16px; color: #D3D3D3; line-height: 1.7; max-width: 800px;">
-    <b>CC Tech ET</b> is a forward-thinking tech startup specializing in 
-    <b>Cybersecurity</b>, <b>Multi-Cloud Solutions</b>, <b>Software Engineering</b>, and 
-    <b>Data Science & AI</b>. We craft secure, scalable, and intelligent systems that 
+    <b>CC Tech ET</b> is a forward-thinking tech startup specializing in
+    <b>Cybersecurity</b>, <b>Multi-Cloud Solutions</b>, <b>Software Engineering</b>, and
+    <b>Data Science & AI</b>. We craft secure, scalable, and intelligent systems that
     empower organizations to navigate complexity and drive digital innovation.
   </p>
   <br>
