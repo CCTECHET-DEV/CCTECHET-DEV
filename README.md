@@ -1,11 +1,19 @@
 <p align="center">
-  <h1 align="center">Welcome to CCTech ET</h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ca.slack-edge.com/T01AEMJU6GG-U0914GDNG3W-54d027e6c5bc-512?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://ca.slack-edge.com/T01AEMJU6GG-U097MP791QW-fa49dfe9d32a-512?raw=true">
+    <img alt="CCTech ET Logo" src="https://github.com/CCTECHET-DEV/.github/blob/main/profile/assets/logo-light.png?raw=true" width="350">
+  </picture>
+
+  <h3 align="center">Secure, Scalable, & Intelligent Solutions for Tomorrow's Challenges.</h3>
+  
   <p align="center">
-    <b>Secure, Scalable, & Intelligent Solutions for Tomorrow's Challenges.</b>
-    <br />
-    <br />
+    <i>Same Team, Same Dream!</i>
+  </p>
+  
+  <p align="center">
     <a href="https://linkedin.com/company/cc-tech-et"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:info@cctech.et"><img src="https://img.shields.io/badge/Email_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:info@cctech.et"><img src="https://img.shields.io/badge/Email_Us-0D6EFD?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     </p>
 </p>
 
