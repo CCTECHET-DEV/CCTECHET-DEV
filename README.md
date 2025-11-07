@@ -2,19 +2,8 @@
 
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=200&section=header&text=CC%20TECH%20ET&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Innovate.%20Secure.%20Scale.&descSize=20&descAlignY=55" width="100%" />
-
-<br>
-
-<!-- Circular Glowing Logo -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ca.slack-edge.com/T01AEMJU6GG-U0914GDNG3W-54d027e6c5bc-512">
-  <img src="https://ca.slack-edge.com/T01AEMJU6GG-U0914GDNG3W-54d027e6c5bc-512"
-       alt="CC Tech ET Logo"
-       width="180"
-       style="border-radius: 50%; border: 4px solid #00BFFF; padding: 6px; box-shadow: 0 0 30px #00BFFF, 0 0 60px #00BFFF99; background: linear-gradient(145deg, #1a1a2e, #16213e);" />
-</picture>
+<!-- Animated Wave Header with Blue Branding -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=CC%20TECH%20ET&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Innovate.%20Secure.%20Scale.&descSize=22&descAlignY=55" width="100%" />
 
 <br><br>
 
@@ -67,47 +56,14 @@ We craft secure, scalable, and intelligent systems that empower organizations to
 
 ---
 
-## 📊 Our Impact
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="280">
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/get/cctech/projects&label=Projects%20Completed&query=value&color=00BFFF&style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117&suffix=%2B" height="35" />
-
-**Building Innovation**
-
-</td>
-<td align="center" width="280">
-<img src="https://img.shields.io/badge/Happy_Clients-15+-FFD700?style=for-the-badge&logo=star&logoColor=white&labelColor=0d1117" height="35" />
-
-**Trusted Partnership**
-
-</td>
-<td align="center" width="280">
-<img src="https://img.shields.io/badge/Team_Members-15+-00BFFF?style=for-the-badge&logo=people&logoColor=white&labelColor=0d1117" height="35" />
-
-**Talented Experts**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Animated Metrics Visualization -->
-<img src="https://img.shields.io/badge/⚡_Projects_Success_Rate-98%25-00FF00?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🌍_Countries_Served-5+-00BFFF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/⏱️_Avg_Delivery_Time-2_Weeks-FFD700?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
----
-
 ## 🚀 Our Core Services
 
 <div align="center">
+
+<!-- Animated Section Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Four+Pillars+of+Innovation;Comprehensive+Tech+Solutions;Your+Success+is+Our+Mission" alt="Services Animation" />
+
+<br><br>
 
 <table>
 <tr>
@@ -115,22 +71,34 @@ We craft secure, scalable, and intelligent systems that empower organizations to
 
 ### 🛡️ **Cybersecurity**
 
-<img src="https://img.shields.io/badge/Advanced_Threat_Defense-00BFFF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Secure_Infrastructure-00BFFF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Security_Audits-00BFFF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⚡_Advanced_Threat_Defense-00BFFF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔒_Secure_Infrastructure-00BFFF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/✅_Security_Audits-00BFFF?style=flat-square&labelColor=0d1117" />
+
+<br>
 
 _Protect your digital assets with enterprise-grade security solutions_
+
+<br>
+
+<img src="https://img.shields.io/badge/Protection_Level-Maximum-00FF00?style=flat-square&labelColor=0d1117" />
 
 </td>
 <td align="center" width="50%">
 
 ### 💻 **Software Engineering**
 
-<img src="https://img.shields.io/badge/Web_Development-FFD700?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Mobile_Apps-FFD700?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/API_Solutions-FFD700?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🌐_Web_Development-FFD700?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📱_Mobile_Apps-FFD700?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🔌_API_Solutions-FFD700?style=flat-square&labelColor=0d1117" />
+
+<br>
 
 _Build scalable, agile solutions engineered for tomorrow_
+
+<br>
+
+<img src="https://img.shields.io/badge/Code_Quality-Enterprise_Grade-00BFFF?style=flat-square&labelColor=0d1117" />
 
 </td>
 </tr>
@@ -139,119 +107,215 @@ _Build scalable, agile solutions engineered for tomorrow_
 
 ### 🤖 **AI & Data Analytics**
 
-<img src="https://img.shields.io/badge/Machine_Learning-00BFFF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Data_Insights-00BFFF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Automation-00BFFF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🧠_Machine_Learning-00BFFF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/📊_Data_Insights-00BFFF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⚙️_Automation-00BFFF?style=flat-square&labelColor=0d1117" />
+
+<br>
 
 _Transform data into actionable intelligence with AI-powered analytics_
+
+<br>
+
+<img src="https://img.shields.io/badge/AI_Accuracy-95%25%2B-FFD700?style=flat-square&labelColor=0d1117" />
 
 </td>
 <td align="center" width="50%">
 
 ### ☁️ **Multi-Cloud Solutions**
 
-<img src="https://img.shields.io/badge/AWS-FFD700?style=flat-square&labelColor=0d1117&logo=amazon-aws" />
-<img src="https://img.shields.io/badge/Azure-FFD700?style=flat-square&labelColor=0d1117&logo=microsoft-azure" />
-<img src="https://img.shields.io/badge/GCP-FFD700?style=flat-square&labelColor=0d1117&logo=google-cloud" />
+<img src="https://img.shields.io/badge/☁️_AWS-FFD700?style=flat-square&labelColor=0d1117&logo=amazon-aws" />
+<img src="https://img.shields.io/badge/☁️_Azure-FFD700?style=flat-square&labelColor=0d1117&logo=microsoft-azure" />
+<img src="https://img.shields.io/badge/☁️_GCP-FFD700?style=flat-square&labelColor=0d1117&logo=google-cloud" />
+
+<br>
 
 _Cloud infrastructure optimized for resilience, speed, and scale_
+
+<br>
+
+<img src="https://img.shields.io/badge/Uptime-99.9%25-00FF00?style=flat-square&labelColor=0d1117" />
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ---
 
-## 🛠️ Our Technology Arsenal
+## 🛠️ Our Technology Stack
 
 <div align="center">
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <img src="https://img.shields.io/badge/Powered_By-Cutting_Edge_Technology-00BFFF?style=for-the-badge&labelColor=0d1117&logo=apachespark&logoColor=white" />
 
-<br><br>
-
-### 🔣 **Programming Languages**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,cpp,rust,php&perline=8&theme=dark" />
-</p>
-
 <br>
 
-### 🎨 **Frontend & Mobile**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,flutter,kotlin,swift&perline=8&theme=dark" />
-</p>
-
-<br>
-
-### ⚙️ **Backend & Frameworks**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,spring,dotnet,graphql&perline=8&theme=dark" />
-</p>
-
-<br>
-
-### 🗃️ **Databases & Storage**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,dynamodb,elasticsearch&perline=8&theme=dark" />
-</p>
-
-<br>
-
-### ☁️ **Cloud & DevOps**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,github&perline=8&theme=dark" />
-</p>
-
-<br>
-
-### 🤖 **AI/ML & Data**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=8&theme=dark" />
-</p>
-
-</div>
-
----
-
-## ✨ Featured Projects
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Showcasing_Innovation-Our_Flagship_Solutions-FFD700?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" />
+<!-- Typing Animation for Tech Stack -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Go+%E2%80%A2+Python;React+%E2%80%A2+Next.js+%E2%80%A2+Flutter;Node.js+%E2%80%A2+Express+%E2%80%A2+Gin;AWS+%E2%80%A2+Azure+%E2%80%A2+Docker+%E2%80%A2+Kubernetes" alt="Tech Animation" />
 
 <br><br>
 
 <table>
 <tr>
-<td width="50%">
+<td align="center">
 
-<a href="https://github.com/cctech-et/gnibe-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cctech-et&repo=gnibe-platform&theme=tokyonight&title_color=00BFFF&text_color=ffffff&icon_color=FFD700&bg_color=0d1117&border_color=00BFFF&border_radius=10" width="100%" />
-</a>
+### 🔣 **Programming Languages**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python&perline=4&theme=dark" />
+</p>
 
 </td>
-<td width="50%">
+<td align="center">
 
-<a href="https://github.com/cctech-et/kech-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cctech-et&repo=kech-app&theme=tokyonight&title_color=00BFFF&text_color=ffffff&icon_color=FFD700&bg_color=0d1117&border_color=00BFFF&border_radius=10" width="100%" />
-</a>
+### 🎨 **Frontend & Mobile**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind&perline=4&theme=dark" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### ⚙️ **Backend Frameworks**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go&perline=3&theme=dark" />
+</p>
+
+</td>
+<td align="center">
+
+### 🗃️ **Databases**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=3&theme=dark" />
+</p>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-<a href="https://github.com/cctech-et/cctechet.com-website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=cctech-et&repo=cctechet.com-website&theme=tokyonight&title_color=00BFFF&text_color=ffffff&icon_color=FFD700&bg_color=0d1117&border_color=00BFFF&border_radius=10" width="49%" />
+### ☁️ **Cloud & DevOps**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,github&perline=5&theme=dark" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Animated Tech Badges -->
+<img src="https://img.shields.io/badge/TypeScript-Expert-00BFFF?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/React-Advanced-00BFFF?style=flat-square&logo=react&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Node.js-Production-00BFFF?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/AWS-Certified-FFD700?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Go-Proficient-00BFFF?style=flat-square&logo=go&logoColor=white&labelColor=0d1117" />
+
+</div>
+
+---
+
+## ✨ Featured Solutions
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🚀_Showcasing_Innovation-Our_Flagship_Solutions-FFD700?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=white" />
+
+<br><br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🛡️ **Gnzabe**
+
+<img src="https://img.shields.io/badge/Cybersecurity_Training-Made_Simple-00BFFF?style=for-the-badge&labelColor=0d1117&logo=shield&logoColor=white" />
+
+<br><br>
+
+</div>
+
+**Comprehensive cybersecurity training platform** designed to protect organizations and build a security-first culture.
+
+#### 🎯 Key Features:
+
+- 🎓 **Interactive Training Modules** - Engaging content for employees at all levels
+- 🏢 **Company Onboarding** - Streamlined security training for new organizations
+- 👥 **Employee Onboarding** - Personalized learning paths for team members
+- 📊 **Progress Tracking** - Real-time analytics and completion reports
+- 🔒 **Security Awareness** - Build a robust security-first culture
+
+<br>
+
+<img src="https://img.shields.io/badge/Platform-Live-00FF00?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Users-1000%2B-00BFFF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Rating-4.8%2F5-FFD700?style=flat-square&labelColor=0d1117" />
+
+<br>
+
+<a href="https://github.com/cctech-et/gnibe-platform">
+  <img src="https://img.shields.io/badge/View_Project-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🚗 **Kech**
+
+<img src="https://img.shields.io/badge/Car_Rental-The_SMART_Way-FFD700?style=for-the-badge&labelColor=0d1117&logo=car&logoColor=white" />
+
+<br><br>
+
+</div>
+
+**Revolutionary car rental and ownership platform** that connects users with verified vehicles from local owners.
+
+#### 🎯 Key Features:
+
+- 🚘 **Rent & Own Cars** - Flexible options for short-term rental or purchase
+- ✅ **Verified Listings** - All vehicles thoroughly inspected and certified
+- 📍 **Location-Based** - Find cars near you with smart search
+- 🔐 **Secure Transactions** - Protected payments and contracts
+- 🎨 **Modern UI/UX** - Sleek, intuitive, and hassle-free experience
+
+<br>
+
+<img src="https://img.shields.io/badge/Platform-Live-00FF00?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Cars_Listed-500%2B-FFD700?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Downloads-5K%2B-00BFFF?style=flat-square&labelColor=0d1117" />
+
+<br>
+
+<a href="https://github.com/cctech-et/kech-app">
+  <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 
 </td>
@@ -260,42 +324,8 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br>
 
-<!-- Project Categories -->
-<img src="https://img.shields.io/badge/Enterprise_Solutions-3-00BFFF?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Open_Source-2-FFD700?style=flat-square&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/AI_Powered-2-00BFFF?style=flat-square&labelColor=0d1117" />
-
-</div>
-
----
-
-## 📈 Organization Insights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Data_Driven_Excellence-00BFFF?style=for-the-badge&labelColor=0d1117&logo=chartdotjs&logoColor=white" />
-
-<br><br>
-
-<table>
-<tr>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cctech-et&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117&icon_color=FFD700&border_radius=10" height="200" />
-
-</td>
-<td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cctech-et&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117&icon_color=FFD700&border_radius=10&hide=stars,issues" height="200" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cctech-et&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00BFFF&line=FFD700&point=ffffff&area=true&area_color=00BFFF" width="90%" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -305,7 +335,17 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <div align="center">
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
 <img src="https://img.shields.io/badge/📞_Get_In_Touch-We're_Here_To_Help-FFD700?style=for-the-badge&labelColor=0d1117" />
+
+<br>
+
+<!-- Typing Animation for Contact -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Let's+Turn+Your+Vision+Into+Reality;Available+24%2F7+for+Your+Success;Partner+with+Innovation+Leaders" alt="Contact Animation" />
 
 <br><br>
 
@@ -375,20 +415,51 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <!-- Animated Footer -->
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Same+Team,+Same+Dream!+✨&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br><br>
+
+<!-- Typing Animation for Footer -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Same+Team%2C+Same+Dream!+%E2%9C%A8;Building+Tomorrow's+Technology+Today;Innovation+%E2%80%A2+Security+%E2%80%A2+Excellence" alt="Footer Animation" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Made_with_💙_by-CC_Tech_ET-00BFFF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Powered_by-Innovation-FFD700?style=for-the-badge&labelColor=0d1117&logo=lightning&logoColor=white" />
 
-<br>
+<br><br>
 
 **© 2024 CC Tech ET. Building Tomorrow's Technology Today.**
 
 <br>
 
-<!-- Profile Views Counter -->
+<!-- Stats & Counter -->
 <img src="https://komarev.com/ghpvc/?username=cctech-et&style=for-the-badge&color=00BFFF&label=Profile+Views" />
+<img src="https://img.shields.io/badge/Established-2020-FFD700?style=for-the-badge&labelColor=0d1117" />
+
+<br><br>
+
+<!-- Social Links with Animation -->
+<a href="https://cctechet.com">
+  <img src="https://img.shields.io/badge/🌐_Visit_Website-00BFFF?style=for-the-badge&labelColor=0d1117&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/company/cc-tech-et/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:info@cctechet.com">
+  <img src="https://img.shields.io/badge/📧_Email_Us-FFD700?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⭐_Star_Our_Repos-FFD700?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🤝_Open_to_Collaborate-00BFFF?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🚀_Always_Innovating-00BFFF?style=flat-square&labelColor=0d1117" />
 
 </div>
