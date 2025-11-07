@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6CD56C&center=true&vCenter=true&width=600&lines=Welcome+to+CCTECHET-DEV+%F0%9F%91%8B;Building+Modern+Web+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6CD56C&center=true&vCenter=true&width=600&lines=Welcome+to+CCTECHET-DEV+%F0%9F%91%8B;Same Team, Same Dream!" alt="Typing SVG" />
   </h1>
 
   <h1><strong><span style="color:#00BFFF">CCTECHET-DEV</span> — <span style="color:#FF4500">Web & Software Studio</span></strong></h1>
