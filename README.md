@@ -259,6 +259,16 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br><br>
 
+<!-- Gnzabe Platform Image -->
+<a href="https://github.com/cctech-et/gnibe-platform">
+  <img src="https://github.com/user-attachments/assets/22df9427-ff4b-4a15-9d86-7f9bf23ed98f" 
+       alt="Gnzabe Platform" 
+       width="100%" 
+       style="border-radius: 15px; border: 2px solid #00BFFF; box-shadow: 0 4px 15px rgba(0, 191, 255, 0.3);" />
+</a>
+
+<br><br>
+
 </div>
 
 **Comprehensive cybersecurity training platform** designed to protect organizations and build a security-first culture.
@@ -277,10 +287,13 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 <img src="https://img.shields.io/badge/Users-1000%2B-00BFFF?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Rating-4.8%2F5-FFD700?style=flat-square&labelColor=0d1117" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/cctech-et/gnibe-platform">
   <img src="https://img.shields.io/badge/View_Project-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://gnzabe.com">
+  <img src="https://img.shields.io/badge/Live_Demo-00BFFF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" />
 </a>
 
 </td>
@@ -291,6 +304,16 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 ### 🚗 **Kech**
 
 <img src="https://img.shields.io/badge/Car_Rental-The_SMART_Way-FFD700?style=for-the-badge&labelColor=0d1117&logo=car&logoColor=white" />
+
+<br><br>
+
+<!-- Kech Platform Image -->
+<a href="https://github.com/cctech-et/kech-app">
+  <img src="https://github.com/user-attachments/assets/ee01fe83-f969-4382-8829-0f871e001a40" 
+       alt="Kech Platform" 
+       width="100%" 
+       style="border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);" />
+</a>
 
 <br><br>
 
@@ -312,10 +335,13 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 <img src="https://img.shields.io/badge/Cars_Listed-500%2B-FFD700?style=flat-square&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Downloads-5K%2B-00BFFF?style=flat-square&labelColor=0d1117" />
 
-<br>
+<br><br>
 
 <a href="https://github.com/cctech-et/kech-app">
   <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://kech.app">
+  <img src="https://img.shields.io/badge/Live_Demo-FFD700?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" />
 </a>
 
 </td>
