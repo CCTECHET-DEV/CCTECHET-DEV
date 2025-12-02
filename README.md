@@ -88,9 +88,9 @@ _Protect your digital assets with enterprise-grade security solutions_
 
 ### 💻 **Software Engineering**
 
-<img src="https://img.shields.io/badge/🌐_Web_Development-FFD700?style=flat-square&labelColor=18293B" />
-<img src="https://img.shields.io/badge/📱_Mobile_Apps-FFD700?style=flat-square&labelColor=18293B" />
-<img src="https://img.shields.io/badge/🔌_API_Solutions-FFD700?style=flat-square&labelColor=18293B" />
+<img src="https://img.shields.io/badge/🌐_Web_Development-2A83D5?style=flat-square&labelColor=18293B" />
+<img src="https://img.shields.io/badge/📱_Mobile_Apps-2A83D5?style=flat-square&labelColor=18293B" />
+<img src="https://img.shields.io/badge/🔌_API_Solutions-2A83D5?style=flat-square&labelColor=18293B" />
 
 <br>
 
@@ -117,16 +117,16 @@ _Transform data into actionable intelligence with AI-powered analytics_
 
 <br>
 
-<img src="https://img.shields.io/badge/AI_Accuracy-95%25%2B-FFD700?style=flat-square&labelColor=18293B" />
+<img src="https://img.shields.io/badge/AI_Accuracy-95%25%2B-2A83D5?style=flat-square&labelColor=18293B" />
 
 </td>
 <td align="center" width="50%">
 
 ### ☁️ **Multi-Cloud Solutions**
 
-<img src="https://img.shields.io/badge/☁️_AWS-FFD700?style=flat-square&labelColor=18293B&logo=amazon-aws&logoColor=000000" />
-<img src="https://img.shields.io/badge/☁️_Azure-FFD700?style=flat-square&labelColor=18293B&logo=microsoft-azure&logoColor=000000" />
-<img src="https://img.shields.io/badge/☁️_GCP-FFD700?style=flat-square&labelColor=18293B&logo=google-cloud&logoColor=000000" />
+<img src="https://img.shields.io/badge/☁️_AWS-2A83D5?style=flat-square&labelColor=18293B&logo=amazon-aws&logoColor=000000" />
+<img src="https://img.shields.io/badge/☁️_Azure-2A83D5?style=flat-square&labelColor=18293B&logo=microsoft-azure&logoColor=000000" />
+<img src="https://img.shields.io/badge/☁️_GCP-2A83D5?style=flat-square&labelColor=18293B&logo=google-cloud&logoColor=000000" />
 
 <br>
 
@@ -145,6 +145,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 </div>
 
 ---
+
 
 ## 🛠️ Our Technology Stack
 
