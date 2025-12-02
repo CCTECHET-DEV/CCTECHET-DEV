@@ -344,13 +344,13 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 ---
 
-## 🤝 Let's Build Together
+## <img src="https://img.icons8.com/fluency/48/handshake.png" width="28" /> Let's Build Together
 
 <div align="center">
 
 <br>
 
-<img src="https://img.shields.io/badge/📞_Get_In_Touch-We're_Here_To_Help-FFD700?style=for-the-badge&labelColor=18293B" />
+<img src="https://img.shields.io/badge/Get_In_Touch-We're_Here_To_Help-FFD700?style=for-the-badge&labelColor=18293B&logo=handshake&logoColor=white" />
 
 <br>
 
@@ -361,52 +361,59 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-### 🌐 Website
+### <img src="https://img.icons8.com/ios-filled/50/2A83D5/internet.png" width="20" /> Website
 
 [**cctechet.com**](https://cctechet.com)
 
 <img src="https://img.shields.io/badge/Visit_Now-2A83D5?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=18293B" />
 
 </td>
+
 <td align="center" width="25%">
 
-### 💼 LinkedIn
+### <img src="https://img.icons8.com/ios-filled/50/0077B5/linkedin.png" width="20" /> LinkedIn
 
 [**CC Tech ET**](https://www.linkedin.com/company/cc-tech-et/)
 
 <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18293B" />
 
 </td>
+
 <td align="center" width="25%">
 
-### 📧 Email
+### <img src="https://img.icons8.com/ios-filled/50/FFD700/new-post.png" width="20" /> Email
 
 [**info@cctechet.com**](mailto:info@cctechet.com)
 
 <img src="https://img.shields.io/badge/Send_Mail-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18293B" />
 
 </td>
+
 <td align="center" width="25%">
 
-### 📞 Phone
+### <img src="https://img.icons8.com/ios-filled/50/2A83D5/phone.png" width="20" /> Phone
 
 **+251 901 339 900**
 
 <img src="https://img.shields.io/badge/Call_Now-2A83D5?style=for-the-badge&logo=phone&logoColor=white&labelColor=18293B" />
 
 </td>
+
 </tr>
 </table>
 
 <br>
 
-<!-- Office Hours -->
-<img src="https://img.shields.io/badge/⏰_Available-Mon--Fri_9AM--6PM_EAT-2A83D5?style=flat-square&labelColor=18293B" />
-<img src="https://img.shields.io/badge/📍_Location-Addis_Ababa,_Ethiopia-2A83D5?style=flat-square&labelColor=18293B" />
+<img src="https://img.shields.io/badge/Available-Mon--Fri_9AM--6PM_EAT-2A83D5?style=flat-square&labelColor=18293B&logo=clock" />
+<img src="https://img.shields.io/badge/Location-Addis_Ababa,_Ethiopia-2A83D5?style=flat-square&labelColor=18293B&logo=location" />
 
 <br><br>
+
+</div>
+
 
 ### 🌟 Ready to Transform Your Vision into Reality?
 
