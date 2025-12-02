@@ -37,7 +37,7 @@ We craft secure, scalable, and intelligent systems that empower organizations to
 <!-- Social Media Badges with Animation -->
 <p>
   <a href="https://cctechet.com">
-    <img src="https://img.shields.io/badge/🌐_Website-cctechet.com-2A83D5?style=for-the-badge&labelColor=18293B" />
+    <img src="https://img.shields.io/badge/Website-cctechet.com-2A83D5?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=18293B" />
   </a>
   <a href="https://www.linkedin.com/company/cc-tech-et/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18293B" />
