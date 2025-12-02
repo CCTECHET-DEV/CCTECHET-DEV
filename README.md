@@ -292,15 +292,14 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 ### 🚗 **Kech**
 
-<!-- <img src="https://img.shields.io/badge/Car_Rental-The_SMART_Way-FFD700?style=for-the-badge&labelColor=18293B&logo=car&logoColor=white" /> -->
-<img width="1900" height="946" alt="image" src="https://github.com/user-attachments/assets/ceed92e3-6da3-4c3f-be79-3599f2a3beb0" />
+<img src="https://img.shields.io/badge/Car_Rental-The_SMART_Way-FFD700?style=for-the-badge&labelColor=18293B&logo=car&logoColor=white" />
 
 
 <br><br>
 
 <!-- Kech Platform Image -->
 <a href="https://github.com/cctech-et/kech-app">
-  <img src="https://github.com/user-attachments/assets/ee01fe83-f969-4382-8829-0f871e001a40" 
+  <img src="https://github.com/user-attachments/assets/ceed92e3-6da3-4c3f-be79-3599f2a3beb0" 
        alt="Kech Platform" 
        width="100%" 
        style="border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 4px 15px rgba(255, 215, 0, 0.3);" />
