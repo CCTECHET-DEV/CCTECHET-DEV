@@ -1,17 +1,23 @@
+<!-- 🌐 CC Tech ET GitHub Profile - Premium Elite Edition -->
+
 <div align="center">
 
+<!-- Wave Header with Brand Colors -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2A83D5&height=200&section=header&text=CC%20TECH%20ET&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Innovate.%20Secure.%20Scale.&descSize=22&descAlignY=55" width="100%" />
 
 <br><br>
 
+<!-- Multi-line Animated Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=2A83D5&center=true&vCenter=true&width=800&lines=Welcome+to+CC+Tech+ET;Building+Tomorrow's+Technology+Today;Secure+%E2%80%A2+Scalable+%E2%80%A2+Intelligent;Same+Team%2C+Same+Dream!+%F0%9F%9A%80" alt="Typing Animation" />
 
 <br><br>
 
+<!-- Tagline Banner -->
 <img src="https://img.shields.io/badge/🎯_Our_Mission-Secure,_Scalable,_Intelligent_Solutions_for_Tomorrow's_Challenges-FFD700?style=for-the-badge&labelColor=18293B" />
 
 <br><br>
 
+<!-- Company Description -->
 <table>
 <tr>
 <td align="center" width="700">
@@ -28,6 +34,7 @@ We craft secure, scalable, and intelligent systems that empower organizations to
 
 <br>
 
+<!-- Social Media Badges with Animation -->
 <p>
   <a href="https://cctechet.com">
     <img src="https://img.shields.io/badge/🌐_Website-cctechet.com-2A83D5?style=for-the-badge&labelColor=18293B" />
@@ -39,7 +46,7 @@ We craft secure, scalable, and intelligent systems that empower organizations to
     <img src="https://img.shields.io/badge/Email-info@cctechet.com-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18293B" />
   </a>
   <a href="tel:+251901339900">
-    <img src="https://img.shields.io/badge/Phone-+251_901_339_900-2A83D5?style=for-the-badge&labelColor=18293B" />
+    <img src="https://img.shields.io/badge/Phone-+251_901_339_900-2A83D5?style=for-the-badge&logo=phone&logoColor=white&labelColor=18293B" />
   </a>
 </p>
 
@@ -53,6 +60,7 @@ We craft secure, scalable, and intelligent systems that empower organizations to
 
 <div align="center">
 
+<!-- Section Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=2A83D5&center=true&vCenter=true&width=600&lines=Four+Pillars+of+Innovation;Comprehensive+Tech+Solutions;Your+Success+is+Our+Mission" alt="Services Animation" />
 
 <br><br>
@@ -116,9 +124,9 @@ _Transform data into actionable intelligence with AI-powered analytics_
 
 ### ☁️ **Multi-Cloud Solutions**
 
-<img src="https://img.shields.io/badge/☁️_AWS-FFD700?style=flat-square&labelColor=18293B&logo=amazon-aws&logoColor=black" />
-<img src="https://img.shields.io/badge/☁️_Azure-FFD700?style=flat-square&labelColor=18293B&logo=microsoft-azure&logoColor=black" />
-<img src="https://img.shields.io/badge/☁️_GCP-FFD700?style=flat-square&labelColor=18293B&logo=google-cloud&logoColor=black" />
+<img src="https://img.shields.io/badge/☁️_AWS-FFD700?style=flat-square&labelColor=18293B&logo=amazon-aws&logoColor=000000" />
+<img src="https://img.shields.io/badge/☁️_Azure-FFD700?style=flat-square&labelColor=18293B&logo=microsoft-azure&logoColor=000000" />
+<img src="https://img.shields.io/badge/☁️_GCP-FFD700?style=flat-square&labelColor=18293B&logo=google-cloud&logoColor=000000" />
 
 <br>
 
@@ -148,6 +156,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br>
 
+<!-- Typing Animation for Tech Stack -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+Go+%E2%80%A2+Python;React+%E2%80%A2+Next.js+%E2%80%A2+Flutter;Node.js+%E2%80%A2+Express+%E2%80%A2+Gin;AWS+%E2%80%A2+Azure+%E2%80%A2+Docker+%E2%80%A2+Kubernetes" alt="Tech Animation" />
 
 <br><br>
@@ -208,6 +217,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br>
 
+<!-- Tech Badges -->
 <img src="https://img.shields.io/badge/TypeScript-Expert-2A83D5?style=flat-square&logo=typescript&logoColor=white&labelColor=18293B" />
 <img src="https://img.shields.io/badge/React-Advanced-2A83D5?style=flat-square&logo=react&logoColor=white&labelColor=18293B" />
 <img src="https://img.shields.io/badge/Node.js-Production-2A83D5?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=18293B" />
@@ -238,6 +248,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br><br>
 
+<!-- Gnzabe Platform Image -->
 <a href="https://github.com/cctech-et/gnibe-platform">
   <img src="https://github.com/user-attachments/assets/22df9427-ff4b-4a15-9d86-7f9bf23ed98f" 
        alt="Gnzabe Platform" 
@@ -261,22 +272,18 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br>
 
-<div align="center">
 <img src="https://img.shields.io/badge/Platform-Live-2A83D5?style=flat-square&labelColor=18293B" />
 <img src="https://img.shields.io/badge/Users-1000%2B-2A83D5?style=flat-square&labelColor=18293B" />
 <img src="https://img.shields.io/badge/Rating-4.8%2F5-FFD700?style=flat-square&labelColor=18293B" />
-</div>
 
 <br><br>
 
-<div align="center">
 <a href="https://github.com/cctech-et/gnibe-platform">
   <img src="https://img.shields.io/badge/View_Project-2A83D5?style=for-the-badge&logo=github&logoColor=white&labelColor=18293B" />
 </a>
 <a href="https://gnzabe.com">
   <img src="https://img.shields.io/badge/Live_Demo-2A83D5?style=for-the-badge&logo=rocket&logoColor=white&labelColor=18293B" />
 </a>
-</div>
 
 </td>
 <td width="50%" valign="top">
@@ -289,6 +296,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br><br>
 
+<!-- Kech Platform Image -->
 <a href="https://github.com/cctech-et/kech-app">
   <img src="https://github.com/user-attachments/assets/ee01fe83-f969-4382-8829-0f871e001a40" 
        alt="Kech Platform" 
@@ -312,22 +320,18 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br>
 
-<div align="center">
 <img src="https://img.shields.io/badge/Platform-Live-2A83D5?style=flat-square&labelColor=18293B" />
 <img src="https://img.shields.io/badge/Cars_Listed-500%2B-2A83D5?style=flat-square&labelColor=18293B" />
 <img src="https://img.shields.io/badge/Downloads-5K%2B-FFD700?style=flat-square&labelColor=18293B" />
-</div>
 
 <br><br>
 
-<div align="center">
 <a href="https://github.com/cctech-et/kech-app">
   <img src="https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=18293B" />
 </a>
 <a href="https://kech.app">
   <img src="https://img.shields.io/badge/Live_Demo-FFD700?style=for-the-badge&logo=rocket&logoColor=white&labelColor=18293B" />
 </a>
-</div>
 
 </td>
 </tr>
@@ -349,6 +353,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br>
 
+<!-- Contact Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=2A83D5&center=true&vCenter=true&width=600&lines=Let's+Turn+Your+Vision+Into+Reality;Available+24%2F7+for+Your+Success;Partner+with+Innovation+Leaders" alt="Contact Animation" />
 
 <br><br>
@@ -388,7 +393,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 **+251 901 339 900**
 
-<img src="https://img.shields.io/badge/Call_Now-2A83D5?style=for-the-badge&labelColor=18293B" />
+<img src="https://img.shields.io/badge/Call_Now-2A83D5?style=for-the-badge&logo=phone&logoColor=white&labelColor=18293B" />
 
 </td>
 </tr>
@@ -396,6 +401,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br>
 
+<!-- Office Hours -->
 <img src="https://img.shields.io/badge/⏰_Available-Mon--Fri_9AM--6PM_EAT-2A83D5?style=flat-square&labelColor=18293B" />
 <img src="https://img.shields.io/badge/📍_Location-Addis_Ababa,_Ethiopia-2A83D5?style=flat-square&labelColor=18293B" />
 
@@ -416,10 +422,12 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 ---
 
+<!-- Footer -->
 <div align="center">
 
 <br><br>
 
+<!-- Footer Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=2A83D5&center=true&vCenter=true&width=800&lines=Same+Team%2C+Same+Dream!+%E2%9C%A8;Building+Tomorrow's+Technology+Today;Innovation+%E2%80%A2+Security+%E2%80%A2+Excellence" alt="Footer Animation" />
 
 <br><br>
@@ -428,7 +436,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br>
 
-<img src="https://img.shields.io/badge/Made_by-CC_Tech_ET-2A83D5?style=for-the-badge&labelColor=18293B" />
+<img src="https://img.shields.io/badge/Made_with_by-CC_Tech_ET-2A83D5?style=for-the-badge&labelColor=18293B" />
 <img src="https://img.shields.io/badge/Powered_by-Innovation-FFD700?style=for-the-badge&labelColor=18293B&logo=lightning&logoColor=white" />
 
 <br><br>
@@ -437,24 +445,26 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br>
 
+<!-- Stats & Counter -->
 <img src="https://komarev.com/ghpvc/?username=cctech-et&style=for-the-badge&color=2A83D5&label=Profile+Views" />
 <img src="https://img.shields.io/badge/Established-2020-FFD700?style=for-the-badge&labelColor=18293B" />
 
 <br><br>
 
+<!-- Social Links -->
 <a href="https://cctechet.com">
-  <img src="https://img.shields.io/badge/🌐_Visit_Website-2A83D5?style=for-the-badge&labelColor=18293B&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐_Visit_Website-FFFFFF?style=for-the-badge&labelColor=2A83D5" />
 </a>
 <a href="https://www.linkedin.com/company/cc-tech-et/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18293B" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0077B5" />
 </a>
 <a href="mailto:info@cctechet.com">
-  <img src="https://img.shields.io/badge/📧_Email_Us-FFD700?style=for-the-badge&labelColor=18293B&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧_Email_Us-000000?style=for-the-badge&labelColor=FFD700&logo=gmail&logoColor=000000" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/⭐_Star_Our_Repos-FFD700?style=flat-square&labelColor=18293B&logoColor=black" />
+<img src="https://img.shields.io/badge/⭐_Star_Our_Repos-000000?style=flat-square&labelColor=FFD700" />
 <img src="https://img.shields.io/badge/🤝_Open_to_Collaborate-2A83D5?style=flat-square&labelColor=18293B" />
 <img src="https://img.shields.io/badge/🚀_Always_Innovating-2A83D5?style=flat-square&labelColor=18293B" />
 
