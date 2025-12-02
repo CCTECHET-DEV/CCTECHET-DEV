@@ -292,7 +292,9 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 ### 🚗 **Kech**
 
-<img src="https://img.shields.io/badge/Car_Rental-The_SMART_Way-FFD700?style=for-the-badge&labelColor=18293B&logo=car&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Car_Rental-The_SMART_Way-FFD700?style=for-the-badge&labelColor=18293B&logo=car&logoColor=white" /> -->
+<img width="1900" height="946" alt="image" src="https://github.com/user-attachments/assets/ceed92e3-6da3-4c3f-be79-3599f2a3beb0" />
+
 
 <br><br>
 
