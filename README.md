@@ -36,19 +36,23 @@ We craft secure, scalable, and intelligent systems that empower organizations to
 
 <!-- Social Media Badges with Animation -->
 <p align="center">
-  <a href="https://cctechet.com" style="margin: 0 15px;">
+  <a href="https://cctechet.com">
     <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   </a>
-  <a href="https://www.linkedin.com/company/cc-tech-et/" style="margin: 0 15px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/cc-tech-et/">
     <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="mailto:info@cctechet.com" style="margin: 0 15px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:info@cctechet.com">
     <img width="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
   </a>
-  <a href="tel:+251901339900" style="margin: 0 15px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="tel:+251901339900">
     <img width="32" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" />
   </a>
 </p>
+
 
 
 </div>
