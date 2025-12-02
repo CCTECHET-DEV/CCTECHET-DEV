@@ -35,20 +35,21 @@ We craft secure, scalable, and intelligent systems that empower organizations to
 <br>
 
 <!-- Social Media Badges with Animation -->
-<p>
-  <a href="https://cctechet.com">
-    <img src="https://img.shields.io/badge/Website-cctechet.com-2A83D5?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=18293B" />
+<p align="center">
+  <a href="https://cctechet.com" style="margin: 0 15px;">
+    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   </a>
-  <a href="https://www.linkedin.com/company/cc-tech-et/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=18293B" />
+  <a href="https://www.linkedin.com/company/cc-tech-et/" style="margin: 0 15px;">
+    <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
-  <a href="mailto:info@cctechet.com">
-    <img src="https://img.shields.io/badge/Email-info@cctechet.com-FFD700?style=for-the-badge&logo=gmail&logoColor=white&labelColor=18293B" />
+  <a href="mailto:info@cctechet.com" style="margin: 0 15px;">
+    <img width="32" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
   </a>
-  <a href="tel:+251901339900">
-    <img src="https://img.shields.io/badge/Phone-+251_901_339_900-2A83D5?style=for-the-badge&logo=phone&logoColor=white&labelColor=18293B" />
+  <a href="tel:+251901339900" style="margin: 0 15px;">
+    <img width="32" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" />
   </a>
 </p>
+
 
 </div>
 
