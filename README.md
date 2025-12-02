@@ -60,7 +60,6 @@ We craft secure, scalable, and intelligent systems that empower organizations to
 
 <div align="center">
 
-<!-- Section Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=2A83D5&center=true&vCenter=true&width=600&lines=Four+Pillars+of+Innovation;Comprehensive+Tech+Solutions;Your+Success+is+Our+Mission" alt="Services Animation" />
 
 <br><br>
@@ -124,9 +123,9 @@ _Transform data into actionable intelligence with AI-powered analytics_
 
 ### ☁️ **Multi-Cloud Solutions**
 
-<img src="https://img.shields.io/badge/☁️_AWS-2A83D5?style=flat-square&labelColor=18293B&logo=amazon-aws&logoColor=000000" />
-<img src="https://img.shields.io/badge/☁️_Azure-2A83D5?style=flat-square&labelColor=18293B&logo=microsoft-azure&logoColor=000000" />
-<img src="https://img.shields.io/badge/☁️_GCP-2A83D5?style=flat-square&labelColor=18293B&logo=google-cloud&logoColor=000000" />
+<img src="https://img.shields.io/badge/☁️_AWS-2A83D5?style=flat-square&labelColor=18293B&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/☁️_Azure-2A83D5?style=flat-square&labelColor=18293B&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/☁️_GCP-2A83D5?style=flat-square&labelColor=18293B&logo=google-cloud&logoColor=white" />
 
 <br>
 
