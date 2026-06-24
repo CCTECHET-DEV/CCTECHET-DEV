@@ -1,4 +1,4 @@
-<!-- 🌐 CC Tech ET GitHub Profile - Premium Elite Edition -->
+<!-- 🌐 CC Tech Consulting GitHub Profile - Premium Elite Edition -->
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 ### 💡 Who We Are
 
-**CC Tech ET** is a cutting-edge tech startup pioneering the future through **Cybersecurity**, **Multi-Cloud Solutions**, **Software Engineering**, and **AI & Data Analytics**.
+**CC Tech Consulting** is a cutting-edge tech startup pioneering the future through **Cybersecurity**, **Multi-Cloud Solutions**, **Software Engineering**, and **AI & Data Analytics**.
 
 We craft secure, scalable, and intelligent systems that empower organizations to navigate complexity and drive digital transformation. With a team of passionate innovators, we turn visionary ideas into reality.
 
@@ -454,7 +454,7 @@ _Cloud infrastructure optimized for resilience, speed, and scale_
 
 <br><br>
 
-**© 2024 CC Tech ET. Building Tomorrow's Technology Today.**
+**© 2026 CC Tech Consulting. Building Tomorrow's Technology Today.**
 
 <br>
 
